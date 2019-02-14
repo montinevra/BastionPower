@@ -1,0 +1,9 @@
+## Interface: 60100
+## Title: BastionPower
+## Author: Montinevra#1437
+## Version: 6.1-1.3
+## Notes: Displays Bastion of Glory charges as a resource bar under your player portrait.
+
+#images\
+BastionPower.xml
+BastionPower.lua
